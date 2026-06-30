@@ -1,4 +1,4 @@
-# Trademarkia AI/ML Engineer Task — Semantic Search System
+Semantic Search System
 
 A lightweight semantic search system over the 20 Newsgroups dataset with fuzzy clustering and a from-scratch semantic cache.
 
